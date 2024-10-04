@@ -133,7 +133,7 @@ sections:
             textAlign: left
     actions: []
     colors: colors-f
-    columns: 1
+    columns: 2
     spacingX: 10
     spacingY: 0
     elementId: ''
