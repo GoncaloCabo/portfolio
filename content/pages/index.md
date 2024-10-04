@@ -73,7 +73,7 @@ sections:
     colors: colors-f
     spacing: 16
     columns: 7
-    aspectRatio: '1:1'
+    aspectRatio: '2:3'
     showCaption: false
     enableHover: true
     elementId: ''
