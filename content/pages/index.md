@@ -16,9 +16,7 @@ sections:
     title: >-
       Ola sou o Gonçalo e sou do Curso de Técnico de Gestão e Programação de
       Sistemas Informáticos
-    subtitle: >-
-      Faço parte do curso de Técnico de Gestão e Programação de Sistemas
-      Informáticos da Oficina Escola Profissional. 
+    subtitle: ''
     styles:
       self:
         height: auto
