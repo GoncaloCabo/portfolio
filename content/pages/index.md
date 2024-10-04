@@ -75,10 +75,6 @@ sections:
         altText: HTML
         caption: Caption of the image
         elementId: ''
-      - type: ImageBlock
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     colors: colors-f
     spacing: 24
     columns: 7
