@@ -48,7 +48,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Linguagens em que ja trabalhei
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
