@@ -52,7 +52,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Java.jpg
-        altText: Image one
+        altText: Java
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
