@@ -16,7 +16,9 @@ sections:
     title: >-
       Ola sou o Gonçalo e sou do Curso de Técnico de Gestão e Programação de
       Sistemas Informáticos
-    subtitle: ''
+    subtitle: >-
+      Estou no ultimo ano e procuro ser um programador profissional no futuro, e
+      este é o meu portfolio.
     styles:
       self:
         height: auto
