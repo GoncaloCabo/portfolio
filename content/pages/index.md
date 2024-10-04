@@ -135,7 +135,7 @@ sections:
     colors: colors-f
     columns: 1
     spacingX: 6
-    spacingY: 16
+    spacingY: 10
     elementId: ''
     styles:
       self:
