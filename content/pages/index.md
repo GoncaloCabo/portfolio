@@ -47,7 +47,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Linguagens em que ja trabalhei
+    title: Algumas Linguagens em que ja trabalhei
     subtitle: ''
     images:
       - type: ImageBlock
