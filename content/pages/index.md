@@ -72,7 +72,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/HTML.png
-        altText: altText of the image
+        altText: HTML
         caption: Caption of the image
         elementId: ''
     colors: colors-f
