@@ -76,7 +76,6 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: '/images/C #.png'
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
