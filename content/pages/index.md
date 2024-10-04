@@ -67,7 +67,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/PHP.png
-        altText: Image four
+        altText: PHP
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
