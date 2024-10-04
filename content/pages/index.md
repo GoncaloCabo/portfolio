@@ -62,7 +62,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/C++.png
-        altText: Image three
+        altText: C++
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
