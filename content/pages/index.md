@@ -57,7 +57,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Python.png
-        altText: Image two
+        altText: Python
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
