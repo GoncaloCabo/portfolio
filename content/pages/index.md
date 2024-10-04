@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Ola sou o Gonçalo
-    subtitle: Faço parte do curso de GPSI da Oficina Escola Profissional
+    subtitle: >-
+      Faço parte do curso de Técnico de Gestão e Programação de Sistemas
+      Informáticos da Oficina Escola Profissional
     styles:
       self:
         height: auto
