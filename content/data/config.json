@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Contatos",
             "phoneNumber": "915 267 094",
             "phoneAltText": "Telefone Pessoal",
             "email": "a14352@oficina.pt",
