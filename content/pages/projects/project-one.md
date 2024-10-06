@@ -4,7 +4,9 @@ title: Oficina Gaming 2023
 colors: colors-a
 date: '2023-04-21'
 client: ''
-description: 'Este torneio foi uma atividade realizada no contexto do Oficina Gaming '
+description: >-
+  Este torneio foi uma atividade realizada no contexto do Oficina Gaming para um
+  evento realizado pelo colégio.
 featuredImage:
   type: ImageBlock
   url: /images/Valorant.png
