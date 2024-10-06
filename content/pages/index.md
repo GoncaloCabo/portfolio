@@ -84,6 +84,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: Projetos Feitos Por Mim
   - type: MediaGallerySection
     title: Algumas Linguagens em que ja trabalhei
     subtitle: ''
