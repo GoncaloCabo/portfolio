@@ -4,7 +4,9 @@ title: FCT - Criação de um Website
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: 'Durante o meu 2º ano de curso, realizei a minha FCT que durou 1 mês '
+description: >-
+  Durante o meu 2º ano de curso, realizei a minha FCT que durou 1 mês, onde
+  desenvolvi um website para a empresa onde estagiei. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
