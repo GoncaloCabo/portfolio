@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: FCT - Criação de um Website
 colors: colors-a
-date: '2022-06-22'
+date: '2022-08-22'
 client: Awesome client
 description: >-
   Durante o meu 2º ano de curso, realizei a minha FCT (Formação em Contexto de
