@@ -21,4 +21,4 @@ Durante a FCT (Formação em Contexto de Trabalho) que durou 1 mês (133 horas),
 
 O site possuía características tais como sistemas de filtro de produtos, slide shows de imagens, navbar, secções a explicar a marca e os seus produtos.
 
-Aqui o link que da acesso a uma pasta com umas copias do website: <https://drive.google.com/drive/folders/1X7N_bPJ43lqzDXYL2lbn1Xu77DpYRbqC?usp=sharing>
+Aqui o link que da acesso a uma pasta com algumas copias do website: <https://drive.google.com/drive/folders/1X7N_bPJ43lqzDXYL2lbn1Xu77DpYRbqC?usp=sharing>
