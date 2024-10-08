@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Desenvolvimento de Apps no Thunkable
 colors: colors-a
-date: '2023-10-20'
+date: '2023-12-20'
 client: ''
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
