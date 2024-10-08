@@ -3,7 +3,7 @@ type: ProjectLayout
 title: FCT - Criação de um Website
 colors: colors-a
 date: '2024-07-10'
-client: Awesome client
+client: ''
 description: >-
   Durante o meu 2º ano de curso, realizei a minha FCT (Formação em Contexto de
   Trabalho) que durou 1 mês (133 horas), onde desenvolvi um website para a
