@@ -5,9 +5,8 @@ colors: colors-a
 date: '2023-05-31'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Numa parte do curso, desenvolvi no Thunkable algumas apps para telemóvel que
+  usufruem diferentes coisas no site 
 featuredImage:
   type: ImageBlock
   url: /images/Thunkable.png
