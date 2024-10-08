@@ -6,7 +6,7 @@ date: '2023-05-31'
 client: ''
 description: >-
   Numa parte do curso, desenvolvi no Thunkable algumas apps para telemóvel que
-  usufruem diferentes coisas no site 
+  usufruem de  diferentes utilidades no site Thunkable.
 featuredImage:
   type: ImageBlock
   url: /images/Thunkable.png
