@@ -69,7 +69,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/brandprint.png
-        altText: altText of the image
+        altText: brandprint
         caption: Caption of the image
         elementId: ''
     spacing: 3
