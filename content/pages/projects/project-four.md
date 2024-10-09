@@ -3,7 +3,9 @@ type: ProjectLayout
 title: PHP - Fruta Favorita
 date: '2024-06-03'
 client: ''
-description: 'Através '
+description: >-
+  Através do uso do PHP consegui criar este questionário para encontrar a fruta
+  favorita de cada cliente de um supermercado.
 featuredImage:
   type: ImageBlock
   url: /images/imagem_2024-10-09_202201937.png
