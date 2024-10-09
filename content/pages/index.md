@@ -14,12 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Ola sou o Gonçalo e sou do Curso de Técnico de Gestão e Programação de
+      Sistemas Informáticos
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Estou no ultimo ano de curso e procuro ser um programador profissional no
+      futuro, e este é o meu portfolio.
     styles:
       self:
         height: auto
@@ -47,6 +46,41 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: CtaSection
+    title: Mais sobre mim e as minhas capacidades
+    text: |
+      Clique no botão ao lado para acessar as informações.
+    actions:
+      - type: Button
+        label: Saber Mais
+        altText: ''
+        url: /info
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -63,6 +97,7 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-four.md
     styles:
       self:
         height: auto
@@ -84,113 +119,56 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
+    subtitle: ''
+    title: Projetos Feitos Por Mim
+  - type: MediaGallerySection
+    title: Algumas Linguagens em que ja trabalhei
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Java.jpg
+        altText: Java
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Python.png
+        altText: Python
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/C++.png
+        altText: C++
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PHP.png
+        altText: PHP
+        caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/HTML.png
+        altText: HTML
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-f
+    spacing: 24
+    columns: 5
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: true
     elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: full
         padding:
-          - pt-28
-          - pb-48
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
+        textAlign: center
 ---
