@@ -176,26 +176,30 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: |-
-          **Current**
+        text: >
+          **Projeto Miniestágios (14 Horas)**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          Miniestágios na empresa "Grandes Planos" onde desenvolvi junto de um
+          colega o jogo do galo em Python.
 
-          * fullstack at this startup
 
-          **2015**
+          **FCT - Estágios (133 Horas)**
 
-          * senior front-end at this place
 
-          **2013**
+          Estágios na empresa "Brandprint - Rebelde Atitude"  aonde criei um
+          website para uma das marcas.
 
-          * intern developer at a big company
 
-          **2011**
 
-          * flipping burgers
+
+
+
+
+
+
+
+          ****
         styles:
           self:
             textAlign: left
