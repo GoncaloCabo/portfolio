@@ -75,7 +75,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Pancakes
+        label: C#
       - type: Label
         label: Swift
   - type: DividerSection
