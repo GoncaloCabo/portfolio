@@ -60,7 +60,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: ''
     images: []
     spacing: 3
     columns: 5
