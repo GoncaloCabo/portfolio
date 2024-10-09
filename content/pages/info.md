@@ -30,7 +30,7 @@ sections:
         label: C#
       - type: Label
         label: Hardware
-    title: Competencias
+    title: Minhas Competencias
   - type: DividerSection
     styles:
       self:
