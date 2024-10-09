@@ -147,6 +147,7 @@ sections:
     colors: colors-f
     text: |
       [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    title: Contatos
   - type: DividerSection
     styles:
       self:
