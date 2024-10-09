@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: PHP - Fruta Favorita
-date: '2024-03-08'
+date: '2024-02-08'
 client: ''
 description: ''
 featuredImage:
