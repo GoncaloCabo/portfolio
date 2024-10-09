@@ -60,7 +60,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: ''
     items:
       - type: Label
         label: Microsoft Office
