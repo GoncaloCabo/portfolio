@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PHP - Fruta Favorita
 date: '2024-10-08'
-client: PHP - Fruta Favorita
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
