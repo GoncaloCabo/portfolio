@@ -53,7 +53,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Saber Mais
         altText: ''
         url: /
         showIcon: true
