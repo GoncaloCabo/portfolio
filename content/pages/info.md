@@ -148,13 +148,15 @@ sections:
     text: |+
       **Email Pessoal**
 
-      goncalo6cabo\@gmail.com
+      <goncalo6cabo@gmail.com>
 
       **Email da Escola**
 
-      a14352\@oficina.pt
+      <a14352@oficina.pt>
 
+      **Telefone**
 
+      915 267 094
 
     title: Contatos
   - type: DividerSection
