@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: PHP - Fruta Favorita
 date: '2024-10-08'
 client: PHP - Fruta Favorita
 description: ''
