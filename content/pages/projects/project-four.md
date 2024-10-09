@@ -3,9 +3,7 @@ type: ProjectLayout
 title: This is a project title
 date: '2024-10-08'
 client: PHP - Fruta Favorita
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucib
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/imagem_2024-10-09_202201937.png
