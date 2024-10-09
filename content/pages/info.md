@@ -77,7 +77,7 @@ sections:
       - type: Label
         label: C#
       - type: Label
-        label: Swift
+        label: Hardware
   - type: DividerSection
     styles:
       self:
