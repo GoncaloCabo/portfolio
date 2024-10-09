@@ -55,7 +55,7 @@ sections:
       - type: Button
         label: Saber Mais
         altText: ''
-        url: /
+        url: /info
         showIcon: true
         icon: arrowRight
         iconPosition: right
