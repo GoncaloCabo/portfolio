@@ -63,7 +63,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/GrandesPlanos.png
+        url: /images/GrandesPlanos.svg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
