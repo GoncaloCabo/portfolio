@@ -206,18 +206,18 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |
+          **11º- 12º (2022-2025)**
 
-          * ba computer sciense at a semi fancy school
+          Curso de Gestão e Programação de Sistemas Informáticos 
 
-          **2014**
+          **5º- 9º (2017-2022)**
 
-          * react certificate somewhere
+          Escola da Agrela e Vale do Leça EB 2/3
 
-          **2011**
+          **1º- 4º (2013-2017)**
 
-          * my highschool
+          Escola Básica de Agua Longa
         styles:
           self:
             textAlign: left
