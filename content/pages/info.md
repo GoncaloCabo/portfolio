@@ -60,7 +60,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: ''
+    subtitle: Seja em miniestágios ou em éstagios.
     images:
       - type: ImageBlock
         url: /images/GrandesPlanos.svg
