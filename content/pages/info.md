@@ -67,7 +67,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: CSS
       - type: Label
         label: Next.js
       - type: Label
