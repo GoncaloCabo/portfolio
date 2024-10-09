@@ -73,9 +73,9 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Pancakes
-      - type: Label
         label: C++
+      - type: Label
+        label: Pancakes
       - type: Label
         label: Swift
   - type: DividerSection
