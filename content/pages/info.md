@@ -90,7 +90,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: Empresas com quem ja trabalhei
+    title: Empresas com quem já trabalhei
   - type: DividerSection
     styles:
       self:
