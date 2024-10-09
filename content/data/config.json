@@ -44,16 +44,6 @@
     "footer": {
         "type": "Footer",
         "primaryLinks": [],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contatos",
-            "phoneNumber": "915 267 094",
-            "phoneAltText": "Telefone Pessoal",
-            "email": "a14352@oficina.pt",
-            "emailAltText": "Email da Escola",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
