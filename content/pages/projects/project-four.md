@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PHP - Fruta Favorita
 date: '2024-06-03'
 client: ''
-description: ''
+description: 'Através '
 featuredImage:
   type: ImageBlock
   url: /images/imagem_2024-10-09_202201937.png
