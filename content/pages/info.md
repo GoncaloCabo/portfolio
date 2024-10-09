@@ -65,7 +65,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: React
+        label: HTML
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
