@@ -78,6 +78,7 @@ sections:
         label: C#
       - type: Label
         label: Hardware
+    title: Competencias
   - type: DividerSection
     styles:
       self:
