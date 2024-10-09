@@ -205,7 +205,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: ''
         text: |
           **11º- 12º (2022-2025)**
 
