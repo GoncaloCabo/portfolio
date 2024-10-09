@@ -47,7 +47,7 @@ sections:
     type: HeroSection
     actions: []
   - type: CtaSection
-    title: 'Mais sobre '
+    title: Mais sobre mim e as minhas capacidades
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
