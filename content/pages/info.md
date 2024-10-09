@@ -145,8 +145,17 @@ sections:
     variant: variant-a
     subtitle: ''
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      **Email Pessoal**
+
+      goncalo6cabo\@gmail.com
+
+      **Email da Escola**
+
+      a14352\@oficina.pt
+
+
+
     title: Contatos
   - type: DividerSection
     styles:
