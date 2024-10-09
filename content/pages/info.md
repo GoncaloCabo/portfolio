@@ -71,7 +71,7 @@ sections:
       - type: Label
         label: JAVA
       - type: Label
-        label: Netlify
+        label: Python
       - type: Label
         label: Pancakes
       - type: Label
