@@ -69,7 +69,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Next.js
+        label: JAVA
       - type: Label
         label: Netlify
       - type: Label
